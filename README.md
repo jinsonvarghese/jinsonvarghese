@@ -1,18 +1,20 @@
-### Hi there 👋
+## Hi there 👋
 
-I work as a Senior Information Security Analyst at [Astra Security](https://www.getastra.com), a NASSCOM Emerge 50 and CyberTech 100 company, where I have helped secure companies and organizations like Emirates, Gillette, African Union, ICICI, Dream11, Indian Oil Corporation, Muthoot Finance, Kotak Securities, NIIT, GoDaddy, SpiceJet, NDTV, HOOQ and more.
+I work as a Senior Information Security Analyst at [Astra Security](https://www.getastra.com), a NASSCOM Emerge 50 and CyberTech 100 company, where I have helped secure companies and organizations like Emirates, Gillette, African Union, ICICI, Dream11, Muthoot Finance, Kotak Securities, NIIT, GoDaddy, Indian Oil Corporation, SpiceJet, NDTV, HOOQ and more.
 
 At Astra, I lead the red team activities and perform vulnerability assessment and penetration testing on web and mobile applications, network and cloud infrastructure, in addition to code reviews and the removal of malware from infected websites.
 
-I also use my personal website to share articles, guides and stories from my journey in Cybersecurity to help secure, educate and advice individuals and organizations. Further, I contribute to open source projects such as [OWASP WSTG](https://github.com/OWASP/wstg) and [OWASP Top 10](https://github.com/OWASP/Top10).
+I also use [my personal website](https://www.jinsonvarghese.com) to share articles, guides and stories from my journey in Cybersecurity to help secure, educate and advice individuals and organizations. Further, I contribute to open source projects such as [OWASP WSTG](https://github.com/OWASP/wstg) and [OWASP Top 10](https://github.com/OWASP/Top10).
 
----
+## Contact Me
 
-## Alternate channels:
-
+[![Website](https://raw.githubusercontent.com/jinsonvarghese/jinsonvarghese/main/resources/website%20icon.png)](https://www.jinsonvarghese.com)
 [![Twitter](https://raw.githubusercontent.com/jinsonvarghese/jinsonvarghese/main/resources/twitter%20icon.png)](https://twitter.com/JinsonCyberSec) 
 [![LinkedIn](https://raw.githubusercontent.com/jinsonvarghese/jinsonvarghese/main/resources/linkedin%20icon.png)](https://www.linkedin.com/in/jinsonvarghese/)
-[![Website](https://raw.githubusercontent.com/jinsonvarghese/jinsonvarghese/main/resources/site.png)](https://www.jinsonvarghese.com)
+
+You can also reach me at jinson@owasp.org
+
+---
 
 ## Experience:
 
