@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I work as a Senior Information Security Analyst at [Astra Security](https://www.getastra.com), a NASSCOM Emerge 50 and CyberTech 100 company, where I have helped secure companies and organizations like Emirates, Gillette, African Union, ICICI, Dream11, Muthoot Finance, Kotak Securities, NIIT, GoDaddy, Indian Oil Corporation, SpiceJet, NDTV, HOOQ and more.
+I work as the Information Security Lead at [Astra Security](https://www.getastra.com), a NASSCOM Emerge 50 and CyberTech 100 company, where I have helped secure companies and organizations like Emirates, Gillette, African Union, ICICI, Dream11, Muthoot Finance, Kotak Securities, NIIT, GoDaddy, Indian Oil Corporation, SpiceJet, NDTV, HOOQ and more.
 
-At Astra, I lead the red team activities and perform vulnerability assessment and penetration testing on web and mobile applications, network and cloud infrastructure, in addition to code reviews and the removal of malware from infected websites.
+At Astra, I lead the red team activities and perform vulnerability assessment and penetration testing on web and mobile applications, network and cloud infrastructure, in addition to code reviews and assessment of other assets.
 
-I also use [my personal website](https://www.jinsonvarghese.com) to share articles, guides and stories from my journey in Cybersecurity to help secure, educate and advice individuals and organizations. Further, I contribute to open source projects such as [OWASP WSTG](https://github.com/OWASP/wstg) and [OWASP Top 10](https://github.com/OWASP/Top10).
+I also use [my personal website](https://www.jinsonvarghese.com) to share articles, guides and stories from my journey in Cybersecurity to help secure, educate and advice individuals and organizations. Further, I contribute to open source projects such as [OWASP WSTG](https://github.com/OWASP/wstg), [OWASP Top 10](https://github.com/OWASP/Top10) and [OWASP Smart Contract Top 10](https://github.com/OWASP/www-project-smart-contract-top-10).
 
 ## Contact Me
 
@@ -27,8 +27,9 @@ Specializing in the security assessment of
 - APIs
 - Network infrastructure
 - Cloud infrastructure
+- Smart Contracts
 - Source code
-- Malware infected websites
+- And others assets
 
 ## Education:
 
