@@ -56,3 +56,5 @@ Specializing in the security assessment of
 - CVE-2021-27839
 - CVE-2021-24233
 - CVE-2021-24234
+- CVE-2024-42054
+- CVE-2024-42055
