@@ -4,7 +4,7 @@ I work as the Information Security Lead at [Astra Security](https://www.getastra
 
 At Astra, I lead the red team activities and perform vulnerability assessment and penetration testing on web and mobile applications, network and cloud infrastructure, in addition to code reviews and assessment of other assets.
 
-I also use [my personal website](https://www.jinsonvarghese.com) to share articles, guides and stories from my journey in Cybersecurity to help secure, educate and advice individuals and organizations. Further, I contribute to open source projects such as [OWASP WSTG](https://github.com/OWASP/wstg), [OWASP Top 10](https://github.com/OWASP/Top10) and [OWASP Smart Contract Top 10](https://github.com/OWASP/www-project-smart-contract-top-10).
+I also use [my personal website](https://www.jinsonvarghese.com) to share articles, guides and stories from my journey in Cybersecurity to help secure, educate and advice individuals and organizations. Further, I contribute to open source projects such as [OWASP WSTG](https://github.com/OWASP/wstg), [OWASP Top 10](https://github.com/OWASP/Top10), [OWASP Smart Contract Top 10](https://github.com/OWASP/www-project-smart-contract-top-10) and the [OWASP Autonomous Penetration Testing Standard (APTS)](https://github.com/OWASP/APTS).
 
 ## Contact Me
 
